@@ -1,1 +1,1 @@
-# student_of_jomacs_2024
+# AWS_jomacs_2024
